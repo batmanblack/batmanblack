@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @batmanblack
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ ### Hello! 🖤
 
-<!---
-batmanblack/batmanblack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Meu nome é _Isabella Cruz_
+
+- Sou uma estudante no Ensino Médio
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem Javascript
+- Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
+
+  ### Você pode entrar em contato comigo 📫
+
+  isabellacruz376@gmail.com
+
+   @czbell4
+
+![](https://media1.tenor.com/m/3YApu6_zsBgAAAAC/pablo-mar%C3%A7al-e-datena-cadeira.gif)
